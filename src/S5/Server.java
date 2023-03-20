@@ -18,6 +18,8 @@ public class Server {
         }
     }
 
+
+
     //verificare instanta -> a fost accesata anterior
     //daca este prima accesare -> Server.instance = new Server(); return Server.instance;
     //daca nu e prima accesare -> return Server.instance

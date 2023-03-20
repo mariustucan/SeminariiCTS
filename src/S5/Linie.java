@@ -1,6 +1,6 @@
 package S5;
 
-public class Linie extends Shape {
+public class Linie extends Shape { //derivarea clasei shape
     private double length;
     public Linie(double length) {this.length = length;}
     public double getLength() {

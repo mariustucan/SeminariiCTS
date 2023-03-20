@@ -7,6 +7,8 @@ public class Rectangle extends Shape {
         this.height = height;
         this.width = width;
     }
+
+
     public double getHeight() {
         return height;
     }
