@@ -1,8 +1,8 @@
 package S5;
 
-public class Line extends Shape {
+public class Linie extends Shape {
     private double length;
-    public Line(double length) {this.length = length;}
+    public Linie(double length) {this.length = length;}
     public double getLength() {
         return length;
     }
