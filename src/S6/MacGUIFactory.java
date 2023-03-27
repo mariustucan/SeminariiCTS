@@ -1,3 +1,4 @@
+package S6;
 public class MacGUIFactory implements GUIFactory {
     @Override
     public Button createButton() {

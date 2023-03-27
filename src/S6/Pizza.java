@@ -1,3 +1,4 @@
+package S6;
 public abstract class Pizza {
     protected String name;
     protected String dough;

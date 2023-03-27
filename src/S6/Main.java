@@ -10,6 +10,7 @@
 //        Sys
 //    }
 //}
+package S6;
 public class Main {
     public static void main(String[] args) {
         GUIFactory factory;

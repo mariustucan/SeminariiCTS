@@ -1,3 +1,4 @@
+package S6;
 public abstract class Animal {
     protected String name;
 

@@ -1,3 +1,4 @@
+package S6;
 public class PizzaFactory {
     public Pizza createPizza(PizzaType type) {
         switch(type) {

@@ -1,3 +1,4 @@
+package S6;
 public class WindowsGUIFactory implements GUIFactory {
     @Override
     public Button createButton() {

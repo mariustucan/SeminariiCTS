@@ -1,3 +1,4 @@
+package S6;
 public class MacMenu implements Menu {
     @Override
     public void display() {
